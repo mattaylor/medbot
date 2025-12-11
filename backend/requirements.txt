@@ -4,6 +4,7 @@ requests
 falkordb
 discord.py
 pydantic
+pydantic-settings
 langchain
 langchain-community
 openai
@@ -11,3 +12,4 @@ google-generativeai
 python-dotenv
 pandas
 networkx
+mcp
