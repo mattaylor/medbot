@@ -7,8 +7,10 @@ An AI system that reasons about treatment options using a **Clinical Trials Know
 - **Clinical Trials Knowledge Graph**: Downloads and parses data from ClinicalTrials.gov into a graph structure.
 - **Patient Record Integration**: Parses FHIR patient records and links them to clinical trial data.
 - **Natural Language Interface**: Ask questions via a Web UI or Discord Bot.
-- **RAG & Reasoning**: Mocked implementation of Retrieval-Augmented Generation for treatment analysis.
+- **RAG & Reasoning**: Retrieval-Augmented Generation for treatment analysis.
 - **Graph Updates**: Supports updating patient records with outcomes (e.g., PHQ9 scores, adverse events).
+- **LLM Support**: Configurable OpenAI-compatible endpoint support (OpenAI, DeepSeek, vLLM).
+- **MCP Interface**: Exposes agent capabilities via Model Context Protocol (MCP) for integration with other tools.
 
 ## Prerequisites
 
@@ -40,6 +42,22 @@ Create a `.env` file in `discord-bot/`:
 cp discord-bot/.env.example discord-bot/.env
 # Edit .env and add your DISCORD_TOKEN
 ```
+
+### 4. Configure Backend Environment
+
+Create a `.env` file in `backend/` (or strictly rely on env vars):
+
+```bash
+cp .env.example .env
+```
+
+Edit the `.env` file to configure your LLM:
+```ini
+OPENAI_API_KEY=sk-your-key
+OPENAI_BASE_URL=https://api.openai.com/v1
+LLM_MODEL=gpt-4o
+```
+For local models (e.g., via vLLM), set `OPENAI_BASE_URL` to your local endpoint (e.g., `http://localhost:8000/v1`).
 
 ## Usage
 
@@ -85,6 +103,31 @@ Visit `http://localhost:3000` to interact with the agent.
 python3 discord-bot/bot.py
 ```
 
+### 5. Run MCP Server (for external agents)
+
+MedBot provides an MCP server interface that exposes its query capabilities as a tool. You can run it via stdio:
+
+```bash
+python3 -m backend.mcp.server
+```
+
+To use with **Claude Desktop**:
+1. Add the server configuration to your `claude_desktop_config.json`:
+```json
+{
+  "mcpServers": {
+    "medbot": {
+      "command": "python3",
+      "args": ["-m", "backend.mcp.server"],
+      "env": {
+        "OPENAI_API_KEY": "your-key",
+         "PYTHONPATH": "/path/to/medbot"
+      }
+    }
+  }
+}
+```
+
 ## API Endpoints
 
 - **POST** `/query`
@@ -99,6 +142,7 @@ python3 discord-bot/bot.py
 - **`backend/ctkg/`**: Clinical Trials parsing logic.
 - **`backend/patient/`**: FHIR patient data parsing.
 - **`backend/graph/`**: Cypher query generation for graph updates.
-- **`backend/rag/`**: Vector store and LLM integration (currently mocked).
+- **`backend/rag/`**: Vector store and LLM integration.
+- **`backend/mcp/`**: MCP Server implementation.
 
 To extend the system, implement real connections in `backend/rag/engine.py` (for LLM) and `backend/graph/updater.py` (for FalkorDB).
