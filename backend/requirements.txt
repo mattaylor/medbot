@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+requests
+falkordb
+discord.py
+pydantic
+langchain
+langchain-community
+openai
+google-generativeai
+python-dotenv
+pandas
+networkx

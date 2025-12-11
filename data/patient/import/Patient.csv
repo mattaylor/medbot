@@ -1,0 +1,2 @@
+:ID,birthDate,gender,name,:LABEL
+PATIENT:pat1,1970-01-01,male,John Smith,Patient

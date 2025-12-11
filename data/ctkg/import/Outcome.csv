@@ -1,0 +1,120 @@
+:ID,description,measure,:LABEL
+OUTCOME:NCT02988635:0,compare change in QOL from baseline to 12 weeks between study arms,Functional Assessment of Cancer Therapy-General (FACT-G) (Quality of life measure),Outcome
+OUTCOME:NCT02979535:0,GMTs against each Cervarix HPV antigen (HPV-16 and HPV-18) were assessed using an enzyme-linked immunosorbent assay (ELISA) method. Dengue seropositive participants at baseline were defined as those participants with titers greater than or equal to (\>=) 10 (1/dilutions \[dil\]) for at least one serotype with the parental dengue virus strain.,Geometric Mean Titers (GMTs) Against Each Cervarix Human Papillomavirus (HPV) Antigen (HPV-16 and HPV-18) 28 Days After Last Cervarix Vaccination in the Previously Dengue Seropositive Participants,Outcome
+OUTCOME:NCT02979535:1,"The GMTs against each of the four parental dengue virus serotypes (Serotypes 1, 2, 3, and 4) of CYD dengue vaccine were assessed using the 50% plaque reduction neutralization test (PRNT50) assay. Dengue seropositive participants at baseline were defined as those participants with titers \>=10 (1/dil) for at least one serotype with the parental dengue virus strain.",GMTs Against Each Dengue Virus Serotype 28 Days After the Third CYD Dengue Vaccination in the Previously Dengue Seropositive Participants,Outcome
+OUTCOME:NCT01036035:0,,Reductions in stimulated salivary flow (SSF),Outcome
+OUTCOME:NCT04197635:0,"Changes in peak oxygen consumption (VO2) at baseline, 30 and 90 days after starting treatment with dapagliflozin or placebo. VO2 is only one measure and is expressed as milliliters of oxygen per kilogram of body weight per minute (oxygen in milliliters, weight in kilograms, and time in minutes and expressed in ml/kg/min).",Functional capacity,Outcome
+OUTCOME:NCT00159835:0,,Time to of a major coronary event: 1) non-fatal acute myocardial infarction 2) coronary death 3) resuscitated cardiac arrest,Outcome
+OUTCOME:NCT04440735:0,"An AE is any untoward medical occurrence in a patient or clinical investigation subject administered a pharmaceutical product and which does not necessarily have a causal relationship with this treatment. An AE can therefore be any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, or disease temporally associated with the use of a medicinal (investigational) product, whether or not related to the medicinal (investigational) product.",Adverse Events (AEs),Outcome
+OUTCOME:NCT04440735:1,"A DLT is defined as a clinically significant AE of laboratory abnormality that is related to DSP107 or the combination of DSP107 and atezolizumab, but is unrelated to disease progression, intercurrent illness or concomitant medications",Dose Limiting Toxicities (DLT),Outcome
+OUTCOME:NCT04440735:2,Serum samples will be collected to determine circulating levels and PK profile of DSP107,DSP107 Serum Concentration,Outcome
+OUTCOME:NCT02584335:0,"The doctor asks to the patient about the punctuation on the VNS before touching the wound and when the wound treatment starts, it is, 10 minutes later than the dampen gauzes (with the syringe 1 content) has been applied on the wound and the VNS punctuation is registered. The nurse does the same procedure with the syringe 2 content and the VNS punctuation is registered. The syringe 3 content is only applied if the procedure is still painful, and the VNS punctuation is also registered.
+
+This process is done during 6 consecutive wound treatments for each patient. The time frame is up to 19 days because it depends on the need of treatment of each patient: every 24, 48 or 72 hours.
+
+At the end of the study, the investigators, will compare the punctuation registered when lidocaine solution has been administrated with the procedures realized when placebo solution was administrated, to demonstrate if the procedure is less painful (less VNS punctuation) when lidocaine solution was applied.",Register the VNS punctuation during wound treatments to demonstrate pain reduction (less VNS punctuation) when lidocaine solution has been administrated comparing to placebo.,Outcome
+OUTCOME:NCT01615835:0,,Determine feasibility of CS mapping with EnSite NavX during CRT implant,Outcome
+OUTCOME:NCT03481335:0,Mean difference in HbA1c at 6 months in the intervention group compared to the control group. Measured with the A1CNow+ point-of-care device in a community location after the completion of the in-home community survey.,HbA1c,Outcome
+OUTCOME:NCT03665935:0,"assessing white matter tract affection in various disease and damage involving the spinal cord using the DTI indices, quantitatively using ADC and FA measurement and qualitatively using tractogram to assess spinal cord lesions and compare the results to conventional MRI sequences",To determine the usefulness of diffusion tensor imaging (DTI) and fiber tracking in evaluation of myelopathy.,Outcome
+OUTCOME:NCT03470935:0,measurement of menstrual cycles,Describe the impact of diagnosis and the breast cancer care on fertility in patients younger than 40 years,Outcome
+OUTCOME:NCT02784535:0,"The Orthostatic Hypotension Questionnaire (OHQ) , patient-reported assessment tool consisting of the OH Symptom Assessment (OHSA), OH Daily Activity Scale (OHDAS).
+
+The composite score is composed of 10 individual items: 6 items measure specific symptoms , the Orthostatic Hypotension Symptom Assessment (OHSA), and 4 items measure the impact of those symptoms on a patient daily activities, the Orthostatic Hypotension Daily Activity Scale (OHDAS). This scales helps to measure the impact of orthostatic symptoms on daily.
+
+Scale is between 0-10: where ""0"" is minimum Orthostatic symptoms and ""10"" is the maximum / worse possible severity of the symptoms.
+
+All items are scored 0 through 10 (higher scores = more impact) and summed into the respective total scores.
+
+The OHSA and OHDAS subscales averaged to compute the OHQ composite score.",Change in the OHQ (Orthostatic Hypotension Questionnaire) Composite Score,Outcome
+OUTCOME:NCT04312035:0,peripheral sensitivity (pressure pain threshold) assessed at the local knee,change of peripheral sensitivity,Outcome
+OUTCOME:NCT04312035:1,peripheral sensitivity (pressure pain threshold) assessed at the local knee,change of peripheral sensitivity,Outcome
+OUTCOME:NCT03686735:0,"How helpful was this visit? Scale 1 has 5 anchors and numbers
+
+Scored from 0-10:
+
+0 This visit was not helpful at all
+
+1 2-3 There were many ways it could have been better 4 5 Neither useless nor helpful visit 6 7-8 Exceptionally helpful visit 9 10 One of the most helpful doctor visits I have ever had
+
+Higher scores indicate more satisfaction",Patient satisfaction scale 1,Outcome
+OUTCOME:NCT03686735:1,"How helpful was this visit? Scale 2 has 5 anchors and no numbers visible for the participant
+
+Scored from 0-10:
+
+0 This visit was not helpful at all There were many ways it could have been better Neither useless nor helpful visit Exceptionally helpful visit 10 One of the most helpful doctor visits I have ever had
+
+Higher scores indicate more satisfaction",Patient satisfaction scale 2,Outcome
+OUTCOME:NCT03686735:2,"How helpful was this visit? Scale 3 is a visual analog scale with 3 anchors and numbers
+
+Scored from 0-100:
+
+0 Least helpful visit 50 neutral 100 Most helpful visit
+
+Higher scores indicate more satisfaction",Patient satisfaction scale 3,Outcome
+OUTCOME:NCT03686735:3,"How helpful was this visit? Scale 4 is a visual analog scale with 3 anchors and no numbers visible for the participant
+
+Scored from 0-100:
+
+0 This visit was not helpful at all 50 Neither useless nor helpful visit 100 One of the most helpful doctor visits I have ever had
+
+Higher scores indicate more satisfaction",Patient satisfaction scale 4,Outcome
+OUTCOME:NCT04473235:0,"Change in free recall sum-of-attempts of the Free and Cued Selective Reminding with Immediate Recall (FCSR) test.
+
+The Free and Cued Selective Reminding Test (FCSRT) is an episodic memory test. First, the participant learns 16 figures, 4 each time, with the help of semantic cues provided by the examiner. After that, the participant recalls the figures 3 times, with a distraction activity between each attempt (counting 20 to 1 backwards). The sum of each immediate free recall is called sum of attempts. It ranges from 0 (the participant does not recall any figure in three attempts) to 48 (the participant recalls all the figures). The higher the score, the better the participant's episodic memory.",Episodic Memory Improvement,Outcome
+OUTCOME:NCT02004535:0,"Sound localization using a 140 degree, horizontal plane loudspeaker arc","Sound localization using a 140 degree, horizontal plane loudspeaker arc",Outcome
+OUTCOME:NCT04747535:0,Difference in PaO2,Arterial oxygen partial pressure,Outcome
+OUTCOME:NCT06029335:0,Complex Cognitive measure,Mini-mental State Examination,Outcome
+OUTCOME:NCT06029335:1,health-related quality of life measure,The Functional Assessment of Chronic Illness Therapy F,Outcome
+OUTCOME:NCT01813435:0,Number of Participants with a composite of all-cause mortality or non-fatal new Q-wave MI up to 2 years post randomisation.,Number of Participants With a Composite of All-cause Mortality or Non-fatal New Q-wave Myocardial Infarction (MI),Outcome
+OUTCOME:NCT03352635:0,"Ethnic differences in butadiene-DNA adducts across racial groups to determine the relationship of DNA adducts to lung cancer and the influence of carcinogen metabolizing genes on DNA adduct formation, repair, and toxicity/mutagenicity.","Project 3: Analysis of 1,3-butadiene DNA adducts",Outcome
+OUTCOME:NCT03352635:1,"DNA adduct levels in oral cells, themselves or together with urinary biomarker levels, correlate with lung cancer risk across various ethnic/racial groups",Project 4: Correlation of DNA adducts of buccal cells and urinary markers and lung cancer risk,Outcome
+OUTCOME:NCT03352635:2,Analysis of biomarkers of NNK α-hydroxylation (bioactivation) pathway and the effect of P450 2A6 activity on this process.,Project 2: NNK α-hydroxylation,Outcome
+OUTCOME:NCT05452135:0,"Visual, auditory and motor reaction time will be measured as a result of the measurements made during the dual task evaluation.",Dual Task assessment,Outcome
+OUTCOME:NCT05452135:1,"During the dual task task, the dysphagia limit will be determined in liquid and viscous liquids. The maximum amount of water that the person can drink once will be used as the dysphagia limit.",Swallow assessment,Outcome
+OUTCOME:NCT05452135:2,"Participants will be asked to eat a 3x4 cm biscuit. Biscuit eating time, number of chewing cycles and number of bites will be calculated.",Chewing Assessment,Outcome
+OUTCOME:NCT02345135:0,,Number of days with a symptom score > 3 compared to healthy subjects matched for age.,Outcome
+OUTCOME:NCT06758635:0,The Flight Anxiety Situation Questionnaire (FAS),FAS Test,Outcome
+OUTCOME:NCT06758635:1,A Visual Analogue Flight Anxiety Scale,VAFAS,Outcome
+OUTCOME:NCT06758635:2,The Flight Anxiety Modality Questionnaire (FAM),FAM Test,Outcome
+OUTCOME:NCT06758635:3,Have an actual flight within 4 weeks after the treatment.,Actual flight,Outcome
+OUTCOME:NCT06031935:0,"Popliteal angle to test hamstring flexibility. On a scale of 0-90. A popliteal angle of 90 would mean very tight hamstrings. Prone heel to buttocks measurement will be taken to determine how close the patient can get their heel to buttocks. It will be measured in inches. A larger measurement means less flexibility. 0"" is an ideal measurement.",Patient Flexibility,Outcome
+OUTCOME:NCT06636435:0,DLTs are assessed according to CTCAE v.5.0 during the first cycle (28 days).,Dose limiting toxicity,Outcome
+OUTCOME:NCT06636435:1,"An adverse event is any untoward or unintended sign, symptom, or disease in a subject administered an investigational product, whether or not it is related to the investigational product",Adverse Event,Outcome
+OUTCOME:NCT01825135:0,Functional status as measured by modified Functional Independence Measurement (FIM) score,modified Functional Independence Measurement (FIM) score,Outcome
+OUTCOME:NCT05706935:0,Percent agreement between result of MeMed BV® test (bacterial or viral respiratory infection) and antibiotic prescribing by emergency medicine doctor (which implies suspected bacterial infection),MeMed BV® test result and diagnostic concordance,Outcome
+OUTCOME:NCT01881035:0,,Comparison of blood pressures before and after intervention,Outcome
+OUTCOME:NCT00149435:0,Incidence of cardiac related death,Cardiac health,Outcome
+OUTCOME:NCT05021835:0,Months,"Time to first occurrence of 3-point Major Adverse Cardiovascular Event (MACE), a composite endpoint consisting of: Cardiovascular (CV) death, non-fatal Myocardial Infarction (MI) and non-fatal stroke",Outcome
+OUTCOME:NCT06595108:0,The primary endpoint is to improve 6-month progression-free survival rate in the treatment group compared to those existing literature. Progression-free survival and overall survival are evaluated using the Kaplan-Meier curve. Verified through one sample proportion test.,Progression-free survival at 6 month,Outcome
+OUTCOME:NCT05672108:0,"Progression is determined using Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1. criteria, compared to the scan immediately prior to treatment of that territory, using the 2 largest measurable lesions per treated territory. Local progression-free survival will be estimated using the Kaplan-Meier method.",Local progression free survival,Outcome
+OUTCOME:NCT05672108:1,"Complications will be classified using the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0. The rate of complications can be estimated with a standard error of less than 10%. Further, any complication that occurs with a 10% incidence will be observed with greater than 95% probability.",Incidence of adverse events,Outcome
+OUTCOME:NCT03112408:0,〖Adaptation〗\_rate= (〖Amplitude 〗\_post-〖Amplitude 〗\_pre)/〖Amplitude 〗\_pre,Saccadic adaptation efficiency,Outcome
+OUTCOME:NCT03554408:0,"Adverse events include signs, symptoms and laboratory abnormalities, in addition to local and systemic reactogenicity adverse events.",The number of participants who experience adverse events within 2 weeks after 10-1074-LS intravenous infusions and subcutaneous injections.,Outcome
+OUTCOME:NCT03554408:1,"Adverse events include signs, symptoms and laboratory abnormalities, in addition to local and systemic reactogenicity adverse events.",The number of participants who experience adverse events within 2 weeks after 10-1074-LS and 3BNC117-LS intravenous infusions and subcutaneous injections.,Outcome
+OUTCOME:NCT03554408:2,"Elimination half-life (t1/2) of 10-1074-LS, when administered alone and in combination with 3BNC117-LS in all study groups.","Elimination half-life (t1/2) of 10-1074-LS, when administered alone and in combination with 3BNC117-LS in all study groups.",Outcome
+OUTCOME:NCT03554408:3,"The clearance (CL) of 10-1074-LS, when administered alone and in combination with 3BNC117-LS in all study groups.","The clearance (CL) of 10-1074-LS, when administered alone and in combination with 3BNC117-LS in all study groups.",Outcome
+OUTCOME:NCT03554408:4,"The volume of distribution (Vz) of 10-1074-LS, when administered alone and in combination with 3BNC117-LS in all study groups","The volume of distribution (Vz) of 10-1074-LS, when administered alone and in combination with 3BNC117-LS in all study groups",Outcome
+OUTCOME:NCT03554408:5,"Area under the curve of 10-1074-LS, when administered alone and in combination with 3BNC117-LS in all study groups.","Area under the curve of 10-1074-LS, when administered alone and in combination with 3BNC117-LS in all study groups.",Outcome
+OUTCOME:NCT03554408:6,"Decay curve of 10-1074-LS, when administered alone and in combination with 3BNC117-LS in all study groups.","Decay curve of 10-1074-LS, when administered alone and in combination with 3BNC117-LS in all study groups.",Outcome
+OUTCOME:NCT02791308:0,"Percentage of subjects in each treatment group with treatment success, defined as a grade of clear or almost clear (a score of 0 or 1 on the IGA) within all treatment areas at the end of treatment on Visit 4/Day 15",Percentage of Subjects With Treatment Success at Visit 4/Day 15,Outcome
+OUTCOME:NCT03924908:0,"Visual Analogical Scale (VAS) from 0 to 10. This is a subjective linear scale. No pain = 0, maximum pain = 10.",Change in pain perception: Visual Analogical Scale (VAS),Outcome
+OUTCOME:NCT03924908:1,"Visual Analogical Scale (VAS) from 0 to 10. This is a subjective linear scale. No anxiety = 0, maximum anxiety = 10.",Change in anxiety: Visual Analogical Scale (VAS),Outcome
+OUTCOME:NCT03924908:2,"Visual Analogical Scale (VAS) from 0 to 10. This is a subjective linear scale. No fatigue = 0, maximum fatigue = 10.",Change in fatigue,Outcome
+OUTCOME:NCT03924908:3,"Visual Analogical Scale (VAS) from 0 to 10. This is a subjective linear scale. No relaxation = 0, maximum relaxation = 10.",Change in relaxation level,Outcome
+OUTCOME:NCT04096508:0,"A 10-point scale was used to evaluate the patients' pain (0 least, 10 most). All the discomforts such as abdominal pain, distension and the like were all recorded.",Pain score,Outcome
+OUTCOME:NCT01022008:0,,Improvement of respiratory function,Outcome
+OUTCOME:NCT04340908:0,Echocardiography is used to assess cardiac function.,Difference in mean EF% between the treatment and control study arms,Outcome
+OUTCOME:NCT04340908:1,NT-proBNP is used to assess cardiac function.,Difference in NTproBNP between the treatment and control study arms,Outcome
+OUTCOME:NCT02520908:0,,Progression-Free Survival (PFS),Outcome
+OUTCOME:NCT07147608:0,"A score is based on the time spent at each intensity level of physical activity, using the correlation between cadence and METs extrapolated from the literature (Tudor-Locke et al, 2020). The primary outcome measure is the correlation coefficient between the amount of physical activity estimated by the SAPHIR score and that estimated from the Activ-PAL data.",correlation between SAPHIR score completed at inclusion and the level of physical activity estimated from measurement data collected using the Activ-PAL® activity monitor,Outcome
+OUTCOME:NCT05336708:0,"It is a Likert-type scale consisting of a total of nine items, each item being evaluated between 1 and 7 (1=I totally disagree, 7=I totally agree). The fatigue score is obtained by dividing the total score obtained from the scale by the number of scale items. The score that can be obtained from the scale varies between 9 and 63. A high score indicates an increased level of fatigue.",Fatigue evaluated using the Fatigue Severity Scale,Outcome
+OUTCOME:NCT01548508:0,,VO2 peak,Outcome
+OUTCOME:NCT06193408:0,Change in stool output volume (ml/hour) over a treatment period measured and plotted as total stool output during 12-hour stool collection at every 12 hours for 72 hours,Change in stool output volume during treatment period.,Outcome
+OUTCOME:NCT02098408:0,BACS will be used to assess changes in cognition at the cessation of treatment at (6 months) and 12 months post baseline.,Brief Assessment of Cognition in Schizophrenia (BACS),Outcome
+OUTCOME:NCT05873608:0,"Will use descriptive statistics to summarize the demographic characteristics and responses to the interviews. Will audio-record and transcribe the provider conversation for immunotherapy and the pre- and post-provider conversation interviews. The transcripts will be qualitatively coded using multi-level semantic analysis in MAXQDA. Pre-determined codes will include a list of potential benefits of immunotherapy, any patient estimation of the potential for benefit, any side effect and risk mentioned and any estimation of its frequency. Because there is no data on the frequency of misestimations due to media hype, no quantitative analysis is planned.",Misestimations about the risks and benefits of immunotherapy resulting from media hype or other sources,Outcome
+OUTCOME:NCT05873608:1,"During the observed conversation, the ethics team member will note any technical term or metaphor used. The patient will then be asked if each term and metaphor is understood. The open ended questions about misunderstanding, technical terms and metaphors used, and patients' understanding of each term will be qualitatively coded using multi-level semantic analysis in MAXQDA. Frequency of misunderstood terms and misunderstood metaphors will be calculated.",Qualitatively describe patient reported misunderstandings,Outcome
+OUTCOME:NCT05873608:2,The frequencies of each item of information identified by providers and patients will be determined. A combined list of the most frequently mentioned items of information to be included and a discussion of immunotherapy will be compiled.,Provider and patient preferences for information to be communicated about immunotherapy,Outcome
+OUTCOME:NCT05873608:3,"Before-video and after-video correct definition rates will be calculated, along with 95% exact binomial confidence intervals using the Clopper-Pearson method. Before and after paired rates will be compared using an exact McNemar's test. Subset analyses will be performed for gender, age group (=\< 55, \> 55), and education level (high school graduate or less, some college or more).",Correct definition rates (pre- versus post-video),Outcome
+OUTCOME:NCT02544308:0,Progression free survival rate and will be analysed using Kaplan-Meier survival analysis. PSF time will be measured from date of randomisation until progression or death.,Progression-free survival (progression defined as development of myeloma or a new plasmacytoma outside the radiotherapy field),Outcome
+OUTCOME:NCT04561908:0,Number of participants with successful transseptal left atrial access,Procedural Success,Outcome
+OUTCOME:NCT04561908:1,Pericardial effusion,Related-complications,Outcome

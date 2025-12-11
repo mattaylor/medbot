@@ -1,0 +1,102 @@
+:ID,name,:LABEL
+COND:NON-SMALL_CELL_LUNG_CANCER,Non-small Cell Lung Cancer,Condition
+COND:GASTRIC_CANCER,Gastric Cancer,Condition
+COND:PANCREATIC_CANCER,Pancreatic Cancer,Condition
+COND:BILIARY_TRACT_CANCER,Biliary Tract Cancer,Condition
+COND:DENGUE_FEVER,Dengue Fever,Condition
+COND:DENGUE_HEMORRHAGIC_FEVER,Dengue Hemorrhagic Fever,Condition
+COND:HUMAN_PAPILLOMAVIRUS_DISEASE,Human Papillomavirus Disease,Condition
+COND:INCONTINENCE,Incontinence,Condition
+COND:HEART_FAILURE_WITH_REDUCED_EJECTION_FRACTION,Heart Failure With Reduced Ejection Fraction,Condition
+COND:INFECTION,Infection,Condition
+COND:LEUKEMIA,Leukemia,Condition
+COND:CARDIOVASCULAR_DISEASES,Cardiovascular Diseases,Condition
+COND:ADVANCED_SOLID_TUMOR,Advanced Solid Tumor,Condition
+COND:NON_SMALL_CELL_LUNG_CANCER,Non Small Cell Lung Cancer,Condition
+COND:COLORECTAL_CANCER,Colorectal Cancer,Condition
+COND:WOUNDS,Wounds,Condition
+COND:LOCAL_ANESTHESIA,Local Anesthesia,Condition
+COND:CONGESTIVE_HEART_FAILURE,Congestive Heart Failure,Condition
+"COND:DIABETES_MELLITUS,_TYPE_2","Diabetes Mellitus, Type 2",Condition
+COND:HYPERTENSION,Hypertension,Condition
+COND:MYELOPATHY,Myelopathy,Condition
+COND:BREAST_CANCER_FEMALE,Breast Cancer Female,Condition
+COND:NEUROGENIC_ORTHOSTATIC_HYPOTENSION,Neurogenic Orthostatic Hypotension,Condition
+COND:OSTEO_ARTHRITIS_KNEE,Osteo Arthritis Knee,Condition
+COND:ALL_ORTHOPEDIC_DISORDERS,All Orthopedic Disorders,Condition
+COND:NEW_OR_FOLLOW-UP_PATIENTS,New or Follow-up Patients,Condition
+COND:MEMORY_IMPAIRMENT,Memory Impairment,Condition
+COND:HEARING_LOSS,Hearing Loss,Condition
+COND:ABDOMINAL_SURGERY,Abdominal Surgery,Condition
+COND:CONTINUOUS_POSITIVE_AIRWAY_PRESSURE,Continuous Positive Airway Pressure,Condition
+COND:LUNG_FUNCTION,Lung Function,Condition
+COND:SYSTEMIC_SCLEROSIS,Systemic Sclerosis,Condition
+COND:SYSTEMIC_LUPUS_ERYTHEMATOSUS,Systemic Lupus Erythematosus,Condition
+"COND:MYOPATHIES,_INFLAMMATORY","Myopathies, Inflammatory",Condition
+COND:RHEUMATOID_ARTHRITIS,Rheumatoid Arthritis,Condition
+COND:HEALTHY,Healthy,Condition
+COND:CORONARY_ARTERY_DISEASE_(CAD),Coronary Artery Disease (CAD),Condition
+COND:TOBACCO_USE,Tobacco Use,Condition
+COND:DUAL_TASK,DUAL TASK,Condition
+COND:DEGLUTİTİON,DEGLUTİTİON,Condition
+COND:COGNİTİVE_FUNCTİON,COGNİTİVE FUNCTİON,Condition
+COND:ACTİVİTİES_OF_DAİLY_LİVİNG,ACTİVİTİES OF DAİLY LİVİNG,Condition
+COND:ATAXIA_TELANGIECTASIA,Ataxia Telangiectasia,Condition
+COND:INFECTIONS,Infections,Condition
+COND:IMMUNODEFICIENCY,Immunodeficiency,Condition
+COND:LUNG_DISEASE,Lung Disease,Condition
+COND:FEAR_OF_FLYING,Fear of Flying,Condition
+COND:ANTERIOR_KNEE_PAIN_SYNDROME,Anterior Knee Pain Syndrome,Condition
+COND:SOLID_TUMORS,Solid Tumors,Condition
+COND:HEPATOCELLULAR_CARCINOMA_(HCC),Hepatocellular Carcinoma (HCC),Condition
+COND:MALIGNANT_MELANOMA,Malignant Melanoma,Condition
+COND:PEDIATRIC_CANCER,Pediatric Cancer,Condition
+COND:MUSCLE_WEAKNESS,Muscle Weakness,Condition
+COND:RESPIRATORY_INFECTION,Respiratory Infection,Condition
+COND:RESPIRATORY_INFECTIONS_IN_OLD_AGE,Respiratory Infections in Old Age,Condition
+COND:RESPIRATORY_INFECTION_VIRUS,Respiratory Infection Virus,Condition
+COND:RESPIRATORY_INFECTION_BACTERIAL,Respiratory Infection Bacterial,Condition
+COND:HYPERTENSION_SECONDARY_TO_RENAL_DISEASE,Hypertension Secondary to Renal Disease,Condition
+COND:CARDIOVASCULAR_DISEASES,Cardiovascular Diseases,Condition
+COND:CORONARY_DISEASE,Coronary Disease,Condition
+COND:CEREBROVASCULAR_ACCIDENT,Cerebrovascular Accident,Condition
+COND:DIABETES_MELLITUS,Diabetes Mellitus,Condition
+COND:HEART_DISEASES,Heart Diseases,Condition
+COND:HYPERTENSION,Hypertension,Condition
+"COND:HEART_FAILURE,_CONGESTIVE","Heart Failure, Congestive",Condition
+COND:CARDIOVASCULAR_RISK,Cardiovascular Risk,Condition
+COND:CHRONIC_KIDNEY_DISEASE,Chronic Kidney Disease,Condition
+COND:INFLAMMATION,Inflammation,Condition
+COND:ADVANCED_HEPATOCELLULAR_CARCINOMA,Advanced Hepatocellular Carcinoma,Condition
+COND:CHEMOTHERAPY,Chemotherapy,Condition
+COND:STEREOTACTIC_BODY_RADIOTHERAPY,Stereotactic Body Radiotherapy,Condition
+COND:LUNG_NON-SMALL_CELL_CARCINOMA,Lung Non-Small Cell Carcinoma,Condition
+COND:MEDIASTINAL_NEOPLASM,Mediastinal Neoplasm,Condition
+COND:PLEURAL_NEOPLASM,Pleural Neoplasm,Condition
+COND:LUNG_METASTASES_FROM_ANY_PRIMARY,Lung Metastases From Any Primary,Condition
+COND:ENDOBRONCHIAL_METASTASES,Endobronchial Metastases,Condition
+COND:COLON_CANCER,Colon Cancer,Condition
+COND:SARCOMA,Sarcoma,Condition
+COND:CEREBELLUM_DISEASE,Cerebellum Disease,Condition
+COND:HUMAN_IMMUNODEFICIENCY_VIRUS,Human Immunodeficiency Virus,Condition
+COND:ATOPIC_DERMATITIS,Atopic Dermatitis,Condition
+COND:BURNS,Burns,Condition
+"COND:PAIN,_ACUTE","Pain, Acute",Condition
+COND:ANXIETY,Anxiety,Condition
+COND:GASTROINTESTINAL_ENDOSCOPIC_PROCEDURES,Gastrointestinal Endoscopic Procedures,Condition
+COND:END_STAGE_RENAL_DISEASE,End Stage Renal Disease,Condition
+COND:INFLAMMATION,Inflammation,Condition
+COND:FACIOCRANIOSYNOSTOSES,Faciocraniosynostoses,Condition
+"COND:DIABETES_MELLITUS,_TYPE_2","Diabetes Mellitus, Type 2",Condition
+COND:CARDIAC_SURGERY,Cardiac Surgery,Condition
+COND:EPIDERMOTROPIC_T-CELL_LYMPHOMAS,Epidermotropic T-cell Lymphomas,Condition
+COND:GENERAL_POPULATION_(NO_SPECIFIC_CONDITION_OR_DISEASE),General Population (no Specific Condition or Disease),Condition
+COND:INTERVENTIONAL,Interventional,Condition
+COND:CHRONIC_HEART_FAILURE,Chronic Heart Failure,Condition
+COND:CHOLERA,Cholera,Condition
+COND:PATIENTS_AT_ULTRA-HIGH_RISK_OF_PSYCHOSIS,Patients at Ultra-high Risk of Psychosis,Condition
+COND:HEMATOPOIETIC_AND_LYMPHOID_SYSTEM_NEOPLASM,Hematopoietic and Lymphoid System Neoplasm,Condition
+COND:MALIGNANT_SOLID_NEOPLASM,Malignant Solid Neoplasm,Condition
+COND:PLASMACYTOMA,Plasmacytoma,Condition
+COND:HEART_DISEASES,Heart Diseases,Condition
+COND:ATRIAL_SEPTAL_DILATATION,Atrial Septal Dilatation,Condition
